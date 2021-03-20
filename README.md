@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+🔭 I’m currently working on Cybersecurity concepts
+🌱 I’m currently learning Web Development
 <!--
 **CelaenaSardothien13/CelaenaSardothien13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
