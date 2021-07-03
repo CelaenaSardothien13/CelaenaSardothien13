@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I am Deekshita Tirumala, a Second year B.Tech. graduate at NIT Warangal.
+
+
+
 🔭 I’m currently working on Cybersecurity concepts
 🌱 I’m currently learning Web Development
 <!--
